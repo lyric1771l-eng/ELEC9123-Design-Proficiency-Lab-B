@@ -1,6 +1,4 @@
-# ELEC9123 Design Proficiency - Lab B (2025)
-
-**Wireless Channel Performance Simulation**
+# (Wireless Communications) Performance Analysis Verification via Monte Carlo Simulations
 
 MATLAB study of BPSK bit error rate (BER) and outage probability under noise, fading and distance-dependent path loss. Prepared by Yan Liang for ELEC9123 Design Proficiency (Task B), UNSW, 2025.
 
